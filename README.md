@@ -168,5 +168,7 @@ It’s organized into **Power BI DAX Functions** and **Excel Functions**, with s
 127. `ISNUMBER()` – Checks if value is number.  
 128. `ISTEXT()` – Checks if value is text.  
 129. `ISBLANK()` – Checks if cell is empty.
+
 **Author:** Data Analytics Guide  
+
 **License:** MIT
